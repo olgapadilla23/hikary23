@@ -1,0 +1,209 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "hikary",
+      "publisher": "olgapadilla",
+      "tray_image_file": "chat.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+        },
+        {
+          "image_file": "02.webp",
+        },
+        {
+          "image_file": "03.webp",
+        },
+        {
+          "image_file": "04.webp",
+        },
+        {
+          "image_file": "05.webp",
+        },
+        {
+          "image_file": "06.webp",
+        },
+        {
+          "image_file": "07.webp",
+        },
+        {
+          "image_file": "08.webp",
+        },
+        {
+          "image_file": "09.webp",
+        },
+        {
+          "image_file": "10.webp",
+        },
+        {
+          "image_file": "11.webp",
+        },
+        {
+          "image_file": "12.webp",
+        },
+        {
+          "image_file": "13.webp",
+        },
+        {
+          "image_file": "14.webp",
+        },
+        {
+          "image_file": "15.webp",
+        },
+        {
+          "image_file": "16.webp",
+        },
+        {
+          "image_file": "17.webp",
+        },
+        {
+          "image_file": "18.webp",
+        },
+        {
+          "image_file": "19.webp",
+        },
+        {
+          "image_file": "20.webp",
+        },
+        {
+          "image_file": "21.webp",
+        },
+        {
+          "image_file": "22.webp",
+        },
+        {
+          "image_file": "23.webp",
+        },
+        {
+          "image_file": "24.webp",
+        },
+        {
+          "image_file": "25.webp",
+        },
+        {
+          "image_file": "26.webp",
+        },
+        {
+          "image_file": "27.webp",
+        },
+        {
+          "image_file": "28.webp",
+        },
+        {
+          "image_file": "29.webp",
+        },
+        {
+          "image_file": "30.webp",
+        }
+      ]
+    },
+    {"identifier": "2",
+      "name": "hikary2",
+      "publisher": "olgapadilla",
+      "tray_image_file": "chatw.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001.webp",
+        },
+        {
+          "image_file": "002.webp",
+        },
+        {
+          "image_file": "003.webp",
+        },
+        {
+          "image_file": "004.webp",
+        },
+        {
+          "image_file": "005.webp",
+        },
+        {
+          "image_file": "006.webp",
+        },
+        {
+          "image_file": "007.webp",
+        },
+        {
+          "image_file": "008.webp",
+        },
+        {
+          "image_file": "009.webp",
+        },
+        {
+          "image_file": "0010.webp",
+        },
+        {
+          "image_file": "0011.webp",
+        },
+        {
+          "image_file": "0012.webp",
+        },
+        {
+          "image_file": "0013.webp",
+        },
+        {
+          "image_file": "0014.webp",
+        },
+        {
+          "image_file": "0015.webp",
+        },
+        {
+          "image_file": "0016.webp",
+        },
+        {
+          "image_file": "0017.webp",
+        },
+        {
+          "image_file": "0018.webp",
+        },
+        {
+          "image_file": "0019.webp",
+        },
+        {
+          "image_file": "0020.webp",
+        },
+        {
+          "image_file": "0021.webp",
+        },
+        {
+          "image_file": "0022.webp",
+        },
+        {
+          "image_file": "0023.webp",
+        },
+        {
+          "image_file": "0024.webp",
+        },
+        {
+          "image_file": "0025.webp",
+        },
+        {
+          "image_file": "0026.webp",
+        },
+        {
+          "image_file": "0027.webp",
+        },
+        {
+          "image_file": "0028.webp",
+        },
+        {
+          "image_file": "0029.webp",
+        },
+        {
+          "image_file": "0030.webp",
+        }
+      ]
+    }
+  ]
+}
